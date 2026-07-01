@@ -1,11 +1,11 @@
 head{
-    background-color: rgb(137, 32, 235);
-    color: blue;
+    background-color: rgb(173, 108, 235);
+    color: rgb(109, 109, 231);
     text-align: center;
 }
 
 main{
-    background-color: blue;
-    color: rgb(134, 17, 243);
+    background-color: rgb(100, 100, 219);
+    color: rgb(179, 115, 240);
     text-align: center;
 }
