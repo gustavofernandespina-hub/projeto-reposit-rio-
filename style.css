@@ -1,11 +1,11 @@
-header{
+head{
     background-color: blueviolet;
-    color: #4e0ee4;
+    color: blue;
     text-align: center;
 }
 
 main{
-    background-color: rgb(27, 27, 219);
-    color: #640bb8;
+    background-color: blue;
+    color: blueviolet;
     text-align: center;
 }
