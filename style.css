@@ -1,16 +1,22 @@
 head{
     background-color: rgb(241, 236, 245);
-    color: rgb(118, 118, 240);
+    color: hsl(240, 51%, 53%);
     text-align: center;
 }
 
 main{
     background-color:rgb(241, 236, 245);
-    color:  rgb(118, 118, 240);
+    color:  hsl(240, 51%, 53%)
     text-align: center;
 }
 
 img {
     width: 900px;
     height: 1200px;
+}
+
+div{
+    padding: 20px;
+    border: 2px solid red;
+    margin: 30px;
 }
