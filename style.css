@@ -1,16 +1,16 @@
 head{
     background-color: rgb(241, 236, 245);
-    color: hsl(240, 51%, 53%);
+    color: rgb(116, 128, 130);
     text-align: center;
 }
 
 main{
     background-color:rgb(241, 236, 245);
-    color:  hsl(240, 51%, 53%)
+    color:  rgb(116, 128, 130);
     text-align: center;
 }
 
 img {
-    width: 150px;
-    height: 150px;
+    width:  250px;
+    height: 250px;
 }
